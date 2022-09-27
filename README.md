@@ -1,12 +1,14 @@
 # SocialSploit 
-     Installation
-     pkg install -y git
+     Instalacion en Ubuntu 18.04 en Windows 10
+
+     sudo apt install git-all
      git clone https://github.com/Cesar-Hack-Gray/SocialSploit
      cd SocialSploit
-     ls
      bash install.sh
-     ./Sploit
-# Installation 
+     bash Sploit
+
+   Instalacion
+
 ##### https://youtu.be/z9FmwGOo3A8
 # Example
 ![CollageMaker_20191115_193409432](https://user-images.githubusercontent.com/46208706/68985841-31a1a500-07df-11ea-9d0c-abff6a2f8c49.jpg)
